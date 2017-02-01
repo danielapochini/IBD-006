@@ -1,5 +1,5 @@
 # IBD-006
-Exercícios de criação de aplicações com Banco de Dados realizados na FATEC Rubens Lara.
+Projetos desenvolvidos para a matéria "Aplicações com Banco de Dados" da Fatec Rubens Lara.
 
 ## Ementa 
 Linguagem de Definição de Dados,  
